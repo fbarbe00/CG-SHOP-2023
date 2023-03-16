@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.9,socg_fixed60,fabio-ThinkPad,bfs,pq0a100,outputs/invisible_points,13,3,4.055388689041138,0.0003666877746582031,0.021507978439331055,4.056299924850464,52,False

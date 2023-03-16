@@ -1,0 +1,2 @@
+instance,num_nodes,num_holes,shapely_load_time,sampling_method,machine,version,sampling_time,graph_creation_time,graph_nodes,graph_edges,graph_solving_time,num_invisible_points,total_time
+inputs/competition_instances/maze_2514_250_05_001.instance.json,9,501,0.8577258586883545,midpoint,fabio-ThinkPad,0.2.0,0.09072351455688477,4520.282796621323,2012,53807,508.78558325767517,111,5030.692741632462

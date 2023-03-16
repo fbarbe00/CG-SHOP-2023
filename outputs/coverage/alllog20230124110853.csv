@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.9,socg_fixed60,fabio-ThinkPad,bfs,pq0a2.5,outputs/invisible_points,the solution covers more area than the instance.,,142.9905731678009,0.0037636756896972656,,143.05465126037598,52,False

@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.9,socg_fixed60,fabio-ThinkPad,bfs,pq0a500,,12,2,0.716616153717041,0.00028228759765625,0.01201009750366211,0.7172336578369141,1,False

@@ -1,0 +1,3 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.6,cheese9051,archilles,bfs,pq0,outputs/invisible_points,5433,403,1817.8866727352142,0.20585870742797852,1170.8625502586365,1818.1279480457306,1,False
+0.1.6,cheese9957,archilles,bfs,pq0,outputs/invisible_points,6108,452,2267.2115285396576,0.2537095546722412,1455.9614865779877,2267.5256085395813,1,False

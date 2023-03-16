@@ -1,0 +1,6 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,enable_scaling
+0.1.1,maze_4759_250_01_001,kaspar-Aspire-F5-573,bfs,pq0,outputs/invisible_points,1432,504,198.68394112586975,0.028739452362060547,110.25583100318909,198.72175359725952,False
+0.1.1,maze_2534_250_05_01,kaspar-Aspire-F5-573,bfs,pq0,outputs/invisible_points,933,185,65.70712614059448,0.022019147872924805,53.801620960235596,65.73616218566895,False
+0.1.1,maze_2514_250_05_001,kaspar-Aspire-F5-573,bfs,pq0,outputs/invisible_points,863,179,63.183611154556274,0.017239809036254883,44.465115547180176,63.208029985427856,False
+0.1.1,maze_16549_500_01_01,kaspar-Aspire-F5-573,bfs,pq0,outputs/invisible_points,5648,1514,2485.4853117465973,0.1465153694152832,1953.4473888874054,2485.6658425331116,False
+0.1.1,maze_3634_250_025_01,kaspar-Aspire-F5-573,bfs,pq0,outputs/invisible_points,1296,259,129.60746884346008,0.02844524383544922,100.99596452713013,129.64667510986328,False

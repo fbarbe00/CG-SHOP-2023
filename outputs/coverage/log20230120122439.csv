@@ -1,0 +1,5 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,enable_scaling
+0.1.3,srpg_iso_mc0000266,fabio-ThinkPad,bfs,pq0,,133,20,0.7127838134765625,0.0026268959045410156,0.6370015144348145,0.7162120342254639,False
+0.1.3,srpg_iso_mc0001463,fabio-ThinkPad,bfs,pq0,,723,47,8.799117088317871,0.028038978576660156,15.96931004524231,8.830967664718628,False
+0.1.3,srpg_iso_mc0000261,fabio-ThinkPad,bfs,pq0,,129,16,0.7315547466278076,0.005657196044921875,0.595526933670044,0.7390742301940918,False
+0.1.3,srpg_iso_mc0015281,fabio-ThinkPad,bfs,pq0,,7700,662,718.6217982769012,0.23758816719055176,1715.9127433300018,718.9236240386963,False

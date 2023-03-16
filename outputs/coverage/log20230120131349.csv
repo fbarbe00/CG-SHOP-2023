@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.4,srpg_iso_aligned_mc0006138,mchn,bfs,pq0,,2541,233,148.0181622505188,0.058753013610839844,189.39896726608276,148.09056043624878,1,False

@@ -1,0 +1,10 @@
+cgshop2023-pyutils
+numpy
+scipy
+shapely
+triangle
+networkx
+tqdm
+joblib
+pandas
+matplotlib

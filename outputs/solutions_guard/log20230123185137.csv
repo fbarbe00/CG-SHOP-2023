@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.4,maze_3564_250_025_005,ubuntu-tr61,bfs,pq0,guards,1178,127,149.94887351989746,0.02480006217956543,36.69647192955017,149.98504447937012,1,False

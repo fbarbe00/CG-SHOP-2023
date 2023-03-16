@@ -1,0 +1,4 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.6,maze_4759_250_01_001,fabio-ThinkPad,bfs,pq0,outputs/invisible_points,1432,189,247.5800657272339,0.04913187026977539,72.94065141677856,247.63685274124146,40,False
+0.1.6,maze_2534_250_05_01,fabio-ThinkPad,bfs,pq0,outputs/invisible_points,933,96,81.9438066482544,0.03491044044494629,33.74895358085632,81.99380373954773,40,False
+0.1.6,cheese14941,fabio-ThinkPad,bfs,pq0,outputs/invisible_points,9059,,3476.812956094742,0.270336389541626,,3477.150646209717,40,False

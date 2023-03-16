@@ -1,0 +1,3 @@
+instance,num_nodes,num_holes,shapely_load_time,sampling_method,machine,version,sampling_time,graph_creation_time,graph_nodes,graph_edges,graph_solving_time,num_invisible_points,total_time
+inputs/competition_instances/cheese1516.instance.json,18,332,0.48017406463623047,midpoint,fabio-ThinkPad,0.2.0,0.07588529586791992,1118.9380559921265,1516,20333,115.25893497467041,323,1234.775531053543
+inputs/competition_instances/srpg_octa_mc0001647.instance.json,1593,6,0.07944178581237793,midpoint,fabio-ThinkPad,0.2.0,0.14705586433410645,617.7123370170593,1652,24619,92.11469602584839,254,710.0740442276001

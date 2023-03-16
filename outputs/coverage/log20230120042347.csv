@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,enable_scaling
+0.1.1,maze_134_50_01_01,kaspar-Aspire-F5-573,bfs,pq0,outputs/invisible_points,45,7,0.4950883388519287,0.0008919239044189453,0.19159698486328125,0.4973602294921875,False

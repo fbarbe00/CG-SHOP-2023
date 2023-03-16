@@ -1,0 +1,2 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.4,fpg-poly_0000004900_h2,ubuntu-tr61,bfs,pq0,guards,2415,114,111.89036870002747,0.07428312301635742,146.80395102500916,111.98872327804565,1,False

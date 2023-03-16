@@ -1,0 +1,5 @@
+instance,num_nodes,num_holes,shapely_load_time,sampling_method,machine,version,sampling_time,graph_creation_time,graph_nodes,graph_edges,graph_solving_time,num_invisible_points,total_time
+inputs/competition_instances/srpg_octa_mc0000082.instance.json,72,1,0.06332111358642578,midpoint,fabio-ThinkPad,0.1.1,0.005327463150024414,0.3877401351928711,83,651,27.07354998588562,17,27.531450986862183
+inputs/competition_instances/srpg_octa_mc0000297.instance.json,291,1,0.05972886085510254,midpoint,fabio-ThinkPad,0.1.1,0.022200822830200195,7.769003629684448,298,3643,57.53425335884094,54,65.38714170455933
+inputs/competition_instances/srpg_octa_mc0000322.instance.json,309,2,0.06169939041137695,midpoint,fabio-ThinkPad,0.1.1,0.044760704040527344,11.58479905128479,325,3043,40.2580361366272,68,51.95142579078674
+inputs/competition_instances/srpg_smo_mc0005962.instance.json,5609,9,0.11167788505554199,midpoint,fabio-ThinkPad,0.1.1,0.7225751876831055,18897.4770963192,5972,214654,574.2174472808838,501,19472.587270259857

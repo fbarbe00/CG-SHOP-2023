@@ -1,0 +1,32 @@
+version,instance,machine,search_method,triangulation_opts,initial_solution_id,solution_size,overlapping_polygons,cover_time,solution_time,overlapping_polygons_time,total_time,seed,enable_scaling
+0.1.6,fpg-poly_0000000020_h1,fabio-ThinkPad,bfs,pq0a6,,12,0,0.07302260398864746,0.0006148815155029297,0.01625227928161621,0.07414865493774414,1,True
+0.1.6,fpg-poly_0000000040_h1,fabio-ThinkPad,bfs,pq0a6,,19,0,0.1176903247833252,0.0004169940948486328,0.03342294692993164,0.11855745315551758,1,True
+0.1.6,socg60,fabio-ThinkPad,bfs,pq0a6,,17,0,0.13207578659057617,0.0007333755493164062,0.02371811866760254,0.13329410552978516,1,True
+0.1.6,socg_fixed60,fabio-ThinkPad,bfs,pq0a6,,17,0,0.14524221420288086,0.0009143352508544922,0.026748180389404297,0.14684224128723145,1,True
+0.1.6,srpg_iso_aligned_mc0000088,fabio-ThinkPad,bfs,pq0a6,,32,2,0.23059844970703125,0.001438140869140625,0.06061697006225586,0.23281526565551758,1,True
+0.1.6,maze_74_50_05_00,fabio-ThinkPad,bfs,pq0a6,,28,0,0.31387925148010254,0.001371145248413086,0.04100227355957031,0.31601524353027344,1,True
+0.1.6,socg92,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 1.8189894035458565e-12 at or near point (442.0, 112.0)",,0.23443937301635742,0.0011000633239746094,,0.2360672950744629,1,True
+0.1.6,srpg_octa_mc0000082,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,0.2312924861907959,0.0006997585296630859,,0.23245501518249512,1,True
+0.1.6,fpg-poly_0000000070_h2,fabio-ThinkPad,bfs,pq0a6,,40,0,0.24112319946289062,0.0018744468688964844,0.09211134910583496,0.2436671257019043,1,True
+0.1.6,socg_fixed92,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,0.24923396110534668,0.0013148784637451172,,0.2511417865753174,1,True
+0.1.6,srpg_iso_mc0000080,fabio-ThinkPad,bfs,pq0a6,,41,4,0.24389982223510742,0.001386404037475586,0.09106779098510742,0.24596929550170898,1,True
+0.1.6,maze_79_50_05_005,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,0.3855288028717041,0.0005605220794677734,,0.3866705894470215,1,True
+0.1.6,fpg-poly_0000000020_h2,fabio-ThinkPad,bfs,pq0a6,,18,1,0.10210490226745605,0.0009603500366210938,0.023929119110107422,0.10373044013977051,1,True
+0.1.6,maze_134_50_01_01,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,0.5713446140289307,0.0015845298767089844,,0.5736160278320312,1,True
+0.1.6,srpg_iso_mc0000266,fabio-ThinkPad,bfs,pq0a6,,125,16,0.6541109085083008,0.0032880306243896484,0.622910737991333,0.6584978103637695,1,True
+0.1.6,maze_184_50_001_005,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 1.4210854715202004e-13 at or near point (44.0, 90.0)",,0.8227927684783936,0.0010085105895996094,,0.8245849609375,1,True
+0.1.6,srpg_iso_mc0000261,fabio-ThinkPad,bfs,pq0a6,,125,12,0.7680013179779053,0.002292633056640625,0.5564272403717041,0.7710509300231934,1,True
+0.1.6,ccheese142,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,0.9511003494262695,0.0019440650939941406,,0.9540135860443115,1,True
+0.1.6,srpg_iso_aligned_mc0000286,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 3.552713678800501e-14 at or near point (11.0, 41.0)",,0.7349636554718018,0.002205371856689453,,0.7381510734558105,1,True
+0.1.6,srpg_octa_mc0000297,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 1.1472304587793282e-14 at or near point (4.0, 9.0)",,0.6461076736450195,0.001924753189086914,,0.6489152908325195,1,True
+0.1.6,srpg_octa_mc0000322,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 6.217248937900869e-15 at or near point (4.0, 23.0)",,0.7174680233001709,0.0020682811737060547,,0.7206380367279053,1,True
+0.1.6,srpg_iso_aligned_mc0000451,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 7.105427357601002e-15 at or near point (3.0, 13.0)",,1.0861790180206299,0.0031037330627441406,,1.0904285907745361,1,True
+0.1.6,ccheese194,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,1.5468177795410156,0.0024852752685546875,,1.5506858825683594,1,True
+0.1.6,cheese163,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,1.174896240234375,0.0021800994873046875,,1.1779541969299316,1,True
+0.1.6,srpg_mc0000506,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,1.3852791786193848,0.0044748783111572266,,1.391172170639038,1,True
+0.1.6,ccheese234,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,2.0013675689697266,0.0033185482025146484,,2.0060434341430664,1,True
+0.1.6,srpg_iso_aligned_mc0000624,fabio-ThinkPad,bfs,pq0a6,,249,27,1.9348945617675781,0.00430607795715332,2.210533857345581,1.9408516883850098,1,True
+0.1.6,cheese225,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,1.7201728820800781,0.0029151439666748047,,1.7243952751159668,1,True
+0.1.6,srpg_iso_aligned_mc0000609,fabio-ThinkPad,bfs,pq0a6,,"the union of the polygons leaves uncovered some area of volume 1.4210854715202004e-14 at or near point (1.0, 62.0)",,2.348284959793091,0.00582432746887207,,2.355945110321045,1,True
+0.1.6,cheese271,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,2.4182474613189697,0.003572225570678711,,2.4232382774353027,1,True
+0.1.6,ccheese282,fabio-ThinkPad,bfs,pq0a6,,the solution covers more area than the instance.,,2.771270751953125,0.003846883773803711,,2.7768330574035645,1,True
